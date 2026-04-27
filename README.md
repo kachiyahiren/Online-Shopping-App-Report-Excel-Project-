@@ -1,4 +1,4 @@
-# Online-Shopping-App-Report(Excel)#
+# Online-Shopping-App-Report(Excel)
 
 ## 🚀 Project Overview
 This project is an interactive **Excel-based online shoping app sales dashboard** designed to analyze business performance across multiple dimensions such as time, region, customer demographics, and sales channels.
