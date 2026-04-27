@@ -142,6 +142,3 @@ It enables users to explore sales trends, customer behavior, and operational eff
 - Integrate with Power BI for advanced analytics
 
 ---
-
-
-## ⭐ If you found this project useful, give it a star!
