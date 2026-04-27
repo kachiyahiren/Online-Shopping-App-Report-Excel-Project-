@@ -122,7 +122,7 @@ It enables users to explore sales trends, customer behavior, and operational eff
 ---
 
 ## 📷 Dashboard Preview
-![Store Dashboard](./store_dashboard_advanced.png)
+![Store Dashboard](https://github.com/kachiyahiren/Online-Shopping-App-Report-Excel-Project-/blob/main/Sales%20Report.png)
 
 ---
 
